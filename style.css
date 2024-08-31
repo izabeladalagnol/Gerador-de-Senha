@@ -22,10 +22,14 @@ body{
 .tituloprincipal{
     font-family: var(--roboto-mono);
     font-size: 32px;
+    justify-content: center;
+
 
 }
 .titulo-secundario{
     font-size: 24px;
+    justify-content: center;
+
 }
 .conteudo-senha{
     margin-top: 80px;
