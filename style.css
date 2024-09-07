@@ -19,6 +19,12 @@ body{
     font-family: var(--roboto);
 
 }
+
+<img src="unlock.svg.png" width="20">
+
+.conteudo-titulo{
+    font-size: 10px;
+}
 .tituloprincipal{
     font-family: var(--roboto-mono);
     font-size: 32px;
